@@ -10,3 +10,6 @@ hospital to the cities.
 
 ## Run Instructions
 python gradient.py
+
+## Example
+![alt-text](https://raw.githubusercontent.com/Siddharth1410/Linear-Regression-Gradient-Descent/master/gradient.png)
